@@ -1,0 +1,11 @@
+
+
+.card-task{
+    border: 2px solid orange;
+    margin: 10px;
+}
+
+.task-cards{
+    display: flex;
+    flex-direction: column;
+}
